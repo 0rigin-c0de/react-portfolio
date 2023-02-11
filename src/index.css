@@ -5,6 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  font-family: cursive;
+}
+
 @layer base {
   html {
     font-family: 'Raleway', sans-serif;
@@ -46,6 +50,6 @@
 }
 
 .btn {
-  color: black;
-
+  color: gainsboro;
+  font-size: medium;
 }
