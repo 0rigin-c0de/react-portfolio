@@ -32,7 +32,7 @@ const NavBar = () => {
   return (
     <div className=" flex justify-between items-center w-full h-20 px-4 text-white bg-transparent fixed">
       <div>
-        <a href="https://github.com/0rigin-c0de"><h1 className="logo text-5xl italic ml-2 hover:blur-sm hover:brightness-50 hover:sepia  hover:invert-0  hover:text-orange-400 animation-delay: 200ms;">Origin-code</h1></a>
+        <a href="https://github.com/0rigin-c0de"><h1 className="logo font-signature text-5xl italic ml-2 hover:blur-sm hover:brightness-50 hover:sepia  hover:invert-0  hover:text-orange-400 animation-delay: 200ms;">Origin-code</h1></a>
       </div>
 
       <ul className="hidden md:flex">
