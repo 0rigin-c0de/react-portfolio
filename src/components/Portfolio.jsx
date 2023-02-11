@@ -49,10 +49,10 @@ const Portfolio = () => {
                 className="rounded-md duration-100 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="btn font-bold bg-gradient-to-r from-cyan-200  to-blue-500 rounded-full w-1/1 py-2 px-4  m-4 duration-200 hover:scale-105 hover:brightness-50">
+                <button className="btn  bg-gradient-to-r   to-blue-500 rounded-full w-1/1 py-2 px-4  m-4 duration-200 hover:scale-105 hover:brightness-50">
                   Demo
                 </button>
-                <button className="btn font-bold bg-gradient-to-r from-cyan-200  to-blue-500 rounded-full w-1/1 py-2 px-4  m-4 duration-200 hover:scale-105 hover:brightness-50">
+                <button className="btn  bg-gradient-to-r   to-blue-500 rounded-full w-1/1 py-2 px-4  m-4 duration-200 hover:scale-105 hover:brightness-50">
                   <a href="https://github.com/0rigin-c0de">Code</a>
                 </button>
               </div>
