@@ -3,8 +3,7 @@ import weatherApi from "../assets/portfolio/weather.png";
 import restaurant from "../assets/portfolio/restaurant.png";
 import bubbleSort from "../assets/portfolio/bubblesort.png";
 import wikiViewer from "../assets/portfolio/wiki.png";
-import '../index.css'
-
+import "../index.css";
 
 const Portfolio = () => {
   const portfolios = [

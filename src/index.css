@@ -44,11 +44,21 @@
   border-radius: 7px;
 }
 
+.navbar {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+
 .navbar:hover {
   color: #3B82F6;
   font-size: 20px;
 
+  scroll-behavior: smooth;
 }
+
+
 
 .btn {
   color: gainsboro;
